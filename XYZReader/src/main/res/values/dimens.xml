@@ -4,8 +4,34 @@
     <dimen name="detail_body_text_size">22sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
-    <dimen name="fab_elevation">2dp</dimen>
-    <dimen name="fab_press_translation_z">6dp</dimen>
-    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_press_translation_z">12dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="button_elevation">4dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="text_padding_8dp">8dp</dimen>
+    <dimen name="up_button_size">48dp</dimen>
+
+    <dimen name="tall_toolbar_height">60dp</dimen>
+    <dimen name="shrine_tall_toolbar_height">474dp</dimen>
+    <dimen name="shrine_toolbar_image_offset_top">48dp</dimen>
+    <dimen name="shrine_toolbar_offset_start">124dp</dimen>
+    <dimen name="shrine_toolbar_offset_top">124dp</dimen>
+    <dimen name="shrine_toolbar_subtitle_offset_top">232dp</dimen>
+    <dimen name="shrine_toolbar_subtitle_offset_start">124dp</dimen>
+    <dimen name="shrine_card_inner_padding">8dp</dimen>
+    <dimen name="shrine_grid_item_margin">4dp</dimen>
+    <dimen name="shrine_grid_outer_margin">12dp</dimen>
+    <dimen name="shrine_grid_image_height">200dp</dimen>
+    <dimen name="shrine_item_image_height">292dp</dimen>
+    <dimen name="shrine_item_product_title_size">30sp</dimen>
+    <dimen name="shrine_large_margin_start">56dp</dimen>
+    <dimen name="shrine_spinner_width">212dp</dimen>
+    <dimen name="shrine_spinner_height">48dp</dimen>
+    <dimen name="shrine_spinner_border_width">2dp</dimen>
 
 </resources>

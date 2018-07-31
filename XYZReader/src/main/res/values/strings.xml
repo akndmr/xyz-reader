@@ -8,5 +8,8 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="cd_book_cover_image">Book cover image</string>
+    <string name="share_with">Share with</string>
+    <string name="reached_end_of_the_book">You have reached end of the book!</string>
 
 </resources>
