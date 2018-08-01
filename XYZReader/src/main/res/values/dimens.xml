@@ -9,7 +9,9 @@
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="toolbar_elevation">4dp</dimen>
     <dimen name="button_elevation">4dp</dimen>
-    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_elevation">1dp</dimen>
+    <dimen name="card_raised_elevation">8dp</dimen>
+    <dimen name="app_bar_elevation">4dp</dimen>
 
     <dimen name="margin_8dp">8dp</dimen>
     <dimen name="margin_16dp">16dp</dimen>
